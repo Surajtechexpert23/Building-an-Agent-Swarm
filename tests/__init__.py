@@ -1,0 +1,1 @@
+from api import app  # Update this import if your app is in a different location

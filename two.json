@@ -1,0 +1,14 @@
+{
+    "customer_info": {
+      "name": "Jane Doe",
+      "email": "jane.doe@example.com",
+      "phone": "555-987-6543"
+    },
+    "request_type": "schedule_call",
+    "request_data": {
+      "preferred_date": "2025-05-25",
+      "preferred_time": "14:00",
+      "issue_summary": "Need help with API integration",
+      "call_type": "technical"
+    }
+  }

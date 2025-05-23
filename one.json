@@ -1,0 +1,12 @@
+{
+    "customer_info": {
+      "name": "John Smith",
+      "email": "john.smith@example.com"
+    },
+    "request_type": "create_ticket",
+    "request_data": {
+      "issue_description": "I cannot access my account after changing password",
+      "priority": "high",
+      "category": "technical"
+    }
+  }
